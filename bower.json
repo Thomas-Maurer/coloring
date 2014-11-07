@@ -1,0 +1,22 @@
+{
+  "name": "coloring",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Thomas-Maurer/coloring",
+  "authors": [
+    "Thomas Maurer <thomas.wellan@gmail.com>"
+  ],
+  "description": "coloring game in JS",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "kineticjs": "~5.1.0"
+  }
+}
