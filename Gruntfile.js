@@ -29,7 +29,7 @@ module.exports = function (grunt) {
     },
       concat: {
         dist: {
-          src: ['bower_components/jquery/dist/jquery.js', 'bower_components/underscore/underscore-min.js', 'src/js/bootstrap.js', 'src/js/Memory.js', 'bower_components/bootstrap/dist/js/bootstrap.js'],
+          src: ['bower_components/jquery/dist/jquery.js','bower_components/kineticjs/kinetic.js', 'bower_components/underscore/underscore-min.js', 'src/js/bootstrap.js', 'src/js/kinetic.js', 'bower_components/bootstrap/dist/js/bootstrap.js'],
           dest: 'build/js/vendor.js'
         }
       },

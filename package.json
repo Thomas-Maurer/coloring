@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "grunt-contrib-watch": "^0.6.1",
-    "imagemin-mozjpeg": "^4.0.0"
+    "imagemin-mozjpeg": "^4.0.0",
+    "kinetic": "^5.0.6"
   }
 }
