@@ -1,0 +1,4 @@
+body {
+	background-image : url(asset/game.jpg);
+	background-size: cover; /* version standardisée */
+}

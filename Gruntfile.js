@@ -4,7 +4,6 @@ module.exports = function (grunt) {
   // load all grunt tasks matching the `grunt-*` pattern
   require('load-grunt-tasks')(grunt);
   grunt.loadNpmTasks('grunt-concat-css');
-  grunt.loadNpmTasks('grunt-bootstrap');
     var mozjpeg = require('imagemin-mozjpeg');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
 
